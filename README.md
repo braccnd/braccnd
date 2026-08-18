@@ -1,5 +1,5 @@
 # About Me:
-konnichiwa@dev: ~/github/braccnd<br>$  cat i'm a fullstack dev (kinda).txt<br><br>------------------------------------<br>//: student who love coding, also hate it<br>//: i use fedora btw<br>//: hope to live in japan with someone (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)<br>------------------------------------<br>>  wishlist<br>•  my project all done soon 😓<br>•  sleep well 💤<br>•  get a job and make money 💵<br>•  can javascript and php, swear still don't understand 🗿
+konnichiwa@dev: ~/github/braccnd<br>$  cat i'm a fullstack dev (kinda).txt<br><br>------------------------------------<br>//: student who love coding, also hate it<br>//: i use fedora btw<br>//: hope to live in japan with someone (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)<br>------------------------------------<br>>  wishlist<br>•  my project all done soon 😓<br>•  sleep well 💤<br>•  get a job and make money 💵<br>•  can code javascript and php project without any AI 🙂🙂
 
 
 ## Socials:
